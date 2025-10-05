@@ -1,0 +1,57 @@
+# === Minecraft World GitIgnore ===
+# Keeps essential world data only (terrain, player progress, level.dat).
+# Skips logs, caches, and temporary files that regenerate.
+
+# --- OS / Editor junk ---
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.bak
+*.old
+*.zip
+*.rar
+*.7z
+*.tar.gz
+.idea/
+.vscode/
+*.iml
+
+# --- Minecraft runtime files ---
+session.lock
+*.lock
+
+# --- Temporary or auto-generated data ---
+stats/
+advancements/
+data/scoreboard.dat
+
+# --- Logs & Debug ---
+logs/
+crash-reports/
+debug.log
+*.log
+
+# --- Multiplayer / Server extras (ignore if copied accidentally) ---
+banned-players.json
+banned-ips.json
+ops.json
+usercache.json
+whitelist.json
+eula.txt
+plugins/
+
+# --- Git ---
+.gitignore
+
+# --- Optional: exclude world icon (comment out to keep it) ---
+icon.png
+
+# --- Explicitly keep core world data (DO NOT REMOVE) ---
+!region/
+!DIM1/
+!DIM-1/
+!level.dat
+!level.dat_old
+!playerdata/
+!data/

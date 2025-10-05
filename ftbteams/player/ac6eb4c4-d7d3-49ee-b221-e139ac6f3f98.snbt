@@ -1,0 +1,26 @@
+{
+	id: "ac6eb4c4-d7d3-49ee-b221-e139ac6f3f98"
+	type: "player"
+	player_name: "Collapze"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Collapze"
+		"ftbteams:description": ""
+		"ftbteams:color": "#598FFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [ ]
+	extra: { }
+}
