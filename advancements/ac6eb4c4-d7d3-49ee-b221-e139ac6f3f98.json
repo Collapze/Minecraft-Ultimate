@@ -186,12 +186,6 @@
     },
     "done": true
   },
-  "royalvariations:explosive_king": {
-    "criteria": {
-      "explosive_king": "2025-10-08 17:15:25 +0800"
-    },
-    "done": true
-  },
   "vinery:oak_wine_rack_small": {
     "criteria": {
       "has_the_recipe": "2025-09-28 13:28:52 +0800"
@@ -268,12 +262,6 @@
   "quark:overlevel_enchant": {
     "criteria": {
       "overlevel_enchant": "2025-09-30 23:01:55 +0800"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/relics/void_pearl": {
-    "criteria": {
-      "has_items": "2025-10-08 17:47:20 +0800"
     },
     "done": true
   },
@@ -552,12 +540,6 @@
     },
     "done": true
   },
-  "apotheosis:enchanting/sculkshelf": {
-    "criteria": {
-      "echoing": "2025-10-08 20:05:54 +0800"
-    },
-    "done": true
-  },
   "comforts:sleeping_bag_orange": {
     "criteria": {
       "has_the_recipe": "2025-09-28 13:28:52 +0800"
@@ -749,7 +731,6 @@
       "spellstone2": "2025-10-06 20:02:32 +0800",
       "spellstone1": "2025-09-29 21:03:10 +0800",
       "spellstone4": "2025-09-29 21:43:29 +0800",
-      "spellstone6": "2025-10-08 17:47:20 +0800",
       "spellstone5": "2025-09-29 21:03:02 +0800"
     },
     "done": false
@@ -788,12 +769,6 @@
   "vinery:wine_press": {
     "criteria": {
       "has_the_recipe": "2025-09-28 13:28:52 +0800"
-    },
-    "done": true
-  },
-  "aquamirae:recipes/fin": {
-    "criteria": {
-      "has_item": "2025-10-08 20:20:26 +0800"
     },
     "done": true
   },
@@ -875,12 +850,6 @@
     },
     "done": true
   },
-  "apotheosis:enchanting/arcana100": {
-    "criteria": {
-      "enchanted_item": "2025-10-08 22:14:30 +0800"
-    },
-    "done": true
-  },
   "comforts:hammock_white": {
     "criteria": {
       "has_the_recipe": "2025-09-28 13:28:52 +0800"
@@ -898,12 +867,6 @@
       "has_recall_potion": "2025-09-29 20:59:56 +0800"
     },
     "done": false
-  },
-  "apotheosis:enchanting/hellshelf": {
-    "criteria": {
-      "hellshelf": "2025-10-08 20:09:18 +0800"
-    },
-    "done": true
   },
   "irons_spellbooks:make_inscription_table": {
     "criteria": {
@@ -1038,12 +1001,6 @@
     },
     "done": true
   },
-  "aquamirae:adventure/obtain_fin": {
-    "criteria": {
-      "fin": "2025-10-08 20:20:26 +0800"
-    },
-    "done": true
-  },
   "enigmaticlegacy:recipes/generic/mega_sponge": {
     "criteria": {
       "has_items": "2025-09-28 20:34:45 +0800"
@@ -1131,12 +1088,6 @@
   "vinery:wine_bottle": {
     "criteria": {
       "has_the_recipe": "2025-09-28 13:28:52 +0800"
-    },
-    "done": true
-  },
-  "celestisynth:obtain_aquaflora": {
-    "criteria": {
-      "criteria": "2025-10-08 18:59:48 +0800"
     },
     "done": true
   },
@@ -1252,12 +1203,6 @@
   "apotheosis:affix/mythic": {
     "criteria": {
       "sword": "2025-10-06 00:38:43 +0800"
-    },
-    "done": true
-  },
-  "endrem:main/black_eye": {
-    "criteria": {
-      "black_eye": "2025-10-08 20:56:47 +0800"
     },
     "done": true
   },
@@ -1391,7 +1336,6 @@
       "atmospheric:rainforest_basin": "2025-09-28 19:41:02 +0800",
       "atmospheric:rainforest": "2025-09-30 23:29:13 +0800",
       "minecraft:frozen_river": "2025-10-06 23:19:07 +0800",
-      "minecraft:sunflower_plains": "2025-10-08 17:10:07 +0800",
       "minecraft:birch_forest": "2025-09-28 13:53:35 +0800",
       "minecraft:windswept_hills": "2025-09-28 20:45:19 +0800",
       "minecraft:bamboo_jungle": "2025-10-01 00:56:34 +0800",
@@ -1587,12 +1531,6 @@
     },
     "done": true
   },
-  "farmersdelight:main/craft_knife": {
-    "criteria": {
-      "iron_knife": "2025-10-08 21:40:54 +0800"
-    },
-    "done": true
-  },
   "cisco_mod:sleeping_sword": {
     "criteria": {
       "sleeping_sword": "2025-09-30 21:49:01 +0800"
@@ -1668,12 +1606,6 @@
   "lootr:100loot": {
     "criteria": {
       "loot_stat": "2025-09-28 13:35:59 +0800"
-    },
-    "done": true
-  },
-  "apotheosis:affix/gem_cut": {
-    "criteria": {
-      "cut": "2025-10-09 00:26:22 +0800"
     },
     "done": true
   },
@@ -1772,12 +1704,6 @@
       "log_spam_fixer": "2025-09-28 13:28:52 +0800"
     },
     "done": false
-  },
-  "irons_spellbooks:irons_spellbooks/spell_book_evoker": {
-    "criteria": {
-      "requirement": "2025-10-09 00:45:34 +0800"
-    },
-    "done": true
   },
   "comforts:hammock_cyan_from_white": {
     "criteria": {
@@ -1902,12 +1828,6 @@
   "enigmaticlegacy:recipes/generic/bonus_wool_recipes": {
     "criteria": {
       "has_white_wool": "2025-09-28 19:33:16 +0800"
-    },
-    "done": true
-  },
-  "apotheosis:enchanting/arcana50": {
-    "criteria": {
-      "enchanted_item": "2025-10-08 20:24:08 +0800"
     },
     "done": true
   },
@@ -2281,18 +2201,6 @@
     },
     "done": true
   },
-  "enigmaticlegacy:main/void_pearl": {
-    "criteria": {
-      "spellstone": "2025-10-08 17:47:20 +0800"
-    },
-    "done": true
-  },
-  "apotheosis:enchanting/deepshelf": {
-    "criteria": {
-      "deepshelf": "2025-10-08 20:02:46 +0800"
-    },
-    "done": true
-  },
   "apotheosis:affix/mythic_gem": {
     "criteria": {
       "gem": "2025-09-28 13:46:52 +0800"
@@ -2368,7 +2276,6 @@
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
-      "barrel": "2025-10-09 00:49:13 +0800",
       "grindstone": "2025-09-29 22:18:56 +0800",
       "smithingtable": "2025-09-28 15:12:12 +0800",
       "blastfurnace": "2025-10-05 22:23:12 +0800"
@@ -2595,18 +2502,6 @@
     },
     "done": true
   },
-  "apotheosis:spawner/root": {
-    "criteria": {
-      "spawner": "2025-10-08 18:33:22 +0800"
-    },
-    "done": true
-  },
-  "apotheosis:affix/ancient_gem": {
-    "criteria": {
-      "gem": "2025-10-09 00:27:22 +0800"
-    },
-    "done": true
-  },
   "alexsmobs:alexsmobs/sunbird_blessing": {
     "criteria": {
       "all_effects": "2025-10-06 23:07:31 +0800"
@@ -2650,12 +2545,6 @@
     },
     "done": true
   },
-  "apotheosis:spawner/capturing": {
-    "criteria": {
-      "egg": "2025-10-09 00:45:17 +0800"
-    },
-    "done": true
-  },
   "enigmaticlegacy:recipes/generic/golden_ring": {
     "criteria": {
       "has_parent_recipe": "2025-09-28 13:46:57 +0800",
@@ -2678,12 +2567,6 @@
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2025-09-28 13:28:54 +0800"
-    },
-    "done": true
-  },
-  "simplyswords:longsword_plague": {
-    "criteria": {
-      "requirement": "2025-10-08 17:57:18 +0800"
     },
     "done": true
   },
@@ -2742,27 +2625,9 @@
     },
     "done": true
   },
-  "majruszsenchantments:scholar": {
-    "criteria": {
-      "has_met_requirement": "2025-10-08 22:58:25 +0800"
-    },
-    "done": true
-  },
   "comforts:sleeping_bag_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-09-28 13:28:52 +0800"
-    },
-    "done": true
-  },
-  "apotheosis:affix/socket": {
-    "criteria": {
-      "socket": "2025-10-08 18:59:48 +0800"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:book/relics/enigmatic_amulet": {
-    "criteria": {
-      "has_items": "2025-10-08 16:54:50 +0800"
     },
     "done": true
   },
@@ -2790,12 +2655,6 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/tigers_blessing": {
-    "criteria": {
-      "all_effects": "2025-10-09 00:37:24 +0800"
-    },
-    "done": true
-  },
   "ars_nouveau:amethyst_golem_charm": {
     "criteria": {
       "has_amethyst_golem_charm": "2025-09-28 14:02:54 +0800"
@@ -2811,12 +2670,6 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-09-28 19:39:44 +0800"
-    },
-    "done": true
-  },
-  "aquamirae:recipes/remnants_saber": {
-    "criteria": {
-      "has_item": "2025-10-08 20:20:27 +0800"
     },
     "done": true
   },
@@ -2867,16 +2720,9 @@
       "has_item_1": "2025-09-29 21:03:10 +0800",
       "has_item_2": "2025-10-06 20:02:32 +0800",
       "has_item_5": "2025-09-29 21:03:02 +0800",
-      "has_item_6": "2025-10-08 17:47:20 +0800",
       "has_item_4": "2025-09-29 21:43:29 +0800"
     },
     "done": false
-  },
-  "dungeons_arise:find_illager_fort": {
-    "criteria": {
-      "location0": "2025-10-08 18:04:58 +0800"
-    },
-    "done": true
   },
   "enigmaticlegacy:book/accessories/xp_scroll": {
     "criteria": {
@@ -3008,6 +2854,12 @@
       "enchanted_item": "2025-09-30 22:14:09 +0800"
     },
     "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "direct": "2025-10-08 00:51:20 +0800"
+    },
+    "done": false
   },
   "blue_skies:get_moonstone_shard": {
     "criteria": {
@@ -3196,12 +3048,6 @@
     },
     "done": true
   },
-  "apotheosis:enchanting/upgrade_seashelf": {
-    "criteria": {
-      "crystal": "2025-10-08 20:23:10 +0800"
-    },
-    "done": true
-  },
   "comforts:hammock_green_from_white": {
     "criteria": {
       "has_the_recipe": "2025-09-28 13:28:52 +0800"
@@ -3259,12 +3105,6 @@
   "enigmaticlegacy:recipes/generic/animal_guidebook": {
     "criteria": {
       "has_items": "2025-09-28 14:02:43 +0800"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:main/root": {
-    "criteria": {
-      "flower": "2025-10-08 16:54:50 +0800"
     },
     "done": true
   },
