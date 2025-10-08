@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "simplyswords:sunfire": {
+    "criteria": {
+      "requirement": "2025-10-08 00:46:32 +0800"
+    },
+    "done": true
+  },
   "vinery:dark_oak_wine_rack_small": {
     "criteria": {
       "has_the_recipe": "2025-09-28 13:28:52 +0800"
@@ -132,6 +138,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/enter_catacombs": {
+    "criteria": {
+      "in_catacombs": "2025-10-08 00:18:13 +0800"
+    },
+    "done": true
+  },
   "comforts:hammock_red_from_white": {
     "criteria": {
       "has_the_recipe": "2025-09-28 13:28:52 +0800"
@@ -190,6 +202,12 @@
   "enigmaticaddons:book/accessories/adventure_charm": {
     "criteria": {
       "has_the_recipe": "2025-09-28 13:28:52 +0800"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-10-07 20:12:44 +0800"
     },
     "done": true
   },
@@ -313,10 +331,19 @@
     },
     "done": true
   },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-10-07 20:16:59 +0800"
+    },
+    "done": true
+  },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
+      "entered_tower_of_the_undead": "2025-10-07 23:57:21 +0800",
       "entered_fishing_ship": "2025-09-30 01:04:15 +0800",
-      "entered_druid_circle": "2025-09-28 20:48:24 +0800"
+      "entered_druid_circle": "2025-09-28 20:48:24 +0800",
+      "entered_dungeon_variant": "2025-10-07 23:51:53 +0800",
+      "entered_ruined_building": "2025-10-07 20:01:39 +0800"
     },
     "done": false
   },
@@ -335,6 +362,12 @@
   "enigmaticlegacy:recipes/generic/hunter_guidebook": {
     "criteria": {
       "has_items": "2025-09-28 13:47:27 +0800"
+    },
+    "done": true
+  },
+  "enigmaticaddons:book/relics/revival_leaf": {
+    "criteria": {
+      "has_items": "2025-10-08 00:01:40 +0800"
     },
     "done": true
   },
@@ -519,6 +552,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-10-07 20:38:32 +0800"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/cosmic_heart": {
     "criteria": {
       "has_items": "2025-09-29 20:57:40 +0800"
@@ -681,6 +720,12 @@
     },
     "done": true
   },
+  "enemyexpansion:troll_hunter": {
+    "criteria": {
+      "troll_hunter_0": "2025-10-08 00:00:52 +0800"
+    },
+    "done": true
+  },
   "enigmaticlegacy:main/all_spellstones": {
     "criteria": {
       "spellstone2": "2025-10-06 20:02:32 +0800",
@@ -748,6 +793,12 @@
   "undead_unleashed:nerves_of_steel": {
     "criteria": {
       "nerves_of_steel": "2025-09-28 22:40:55 +0800"
+    },
+    "done": true
+  },
+  "ars_nouveau:mob_jar": {
+    "criteria": {
+      "has_mob_jar": "2025-10-07 20:00:46 +0800"
     },
     "done": true
   },
@@ -878,9 +929,21 @@
     },
     "done": true
   },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2025-10-07 19:42:30 +0800"
+    },
+    "done": true
+  },
   "toms_storage:unlock_netherite": {
     "criteria": {
       "inv_changed-netherite": "2025-09-28 13:28:52 +0800"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/nether_star": {
+    "criteria": {
+      "has_items": "2025-10-07 19:04:55 +0800"
     },
     "done": true
   },
@@ -929,6 +992,12 @@
   "dungeons_arise:find_illager_corsair_or_illager_galley": {
     "criteria": {
       "location0": "2025-09-28 19:29:05 +0800"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_root": {
+    "criteria": {
+      "requirement": "2025-10-08 00:26:49 +0800"
     },
     "done": true
   },
@@ -1287,6 +1356,7 @@
       "minecraft:cold_ocean": "2025-09-28 20:07:14 +0800",
       "atmospheric:aspen_parkland": "2025-09-29 20:37:44 +0800",
       "minecraft:forest": "2025-09-28 15:13:46 +0800",
+      "minecraft:lush_caves": "2025-10-07 23:24:39 +0800",
       "minecraft:windswept_forest": "2025-09-28 16:09:25 +0800",
       "minecraft:ocean": "2025-09-28 13:28:52 +0800",
       "minecraft:jungle": "2025-10-06 19:45:48 +0800",
@@ -1297,6 +1367,7 @@
       "minecraft:frozen_peaks": "2025-10-06 00:42:19 +0800",
       "minecraft:old_growth_birch_forest": "2025-09-28 15:04:59 +0800",
       "atmospheric:laurel_forest": "2025-09-28 21:10:41 +0800",
+      "minecraft:deep_dark": "2025-10-07 20:12:44 +0800",
       "minecraft:meadow": "2025-10-06 01:36:21 +0800",
       "minecraft:savanna": "2025-10-06 01:15:05 +0800",
       "minecraft:plains": "2025-09-28 15:14:30 +0800"
@@ -1544,6 +1615,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/accessories/heaven_scroll": {
+    "criteria": {
+      "has_the_recipe": "2025-10-07 19:04:55 +0800"
+    },
+    "done": true
+  },
   "comforts:hammock_brown": {
     "criteria": {
       "has_the_recipe": "2025-09-28 13:28:52 +0800"
@@ -1779,6 +1856,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2025-10-07 19:42:30 +0800"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/infernal_shield": {
     "criteria": {
       "has_parent_recipe": "2025-09-28 13:28:52 +0800",
@@ -1788,9 +1871,10 @@
   },
   "enigmaticlegacy:recipes/generic/heaven_scroll": {
     "criteria": {
-      "has_parent_recipe": "2025-09-28 20:50:25 +0800"
+      "has_parent_recipe": "2025-09-28 20:50:25 +0800",
+      "has_items": "2025-10-07 19:04:55 +0800"
     },
-    "done": false
+    "done": true
   },
   "comforts:hammock_pink_from_white": {
     "criteria": {
@@ -1813,6 +1897,12 @@
   "immersive_armors:recipes/misc/slime": {
     "criteria": {
       "has_item": "2025-09-29 20:57:27 +0800"
+    },
+    "done": true
+  },
+  "ars_additions:create_ruined_portal": {
+    "criteria": {
+      "create_ruined_portal": "2025-10-07 20:12:34 +0800"
     },
     "done": true
   },
@@ -2129,6 +2219,12 @@
     },
     "done": true
   },
+  "deeperdarker:main/find_ancient_city": {
+    "criteria": {
+      "ancient_city": "2025-10-07 20:12:44 +0800"
+    },
+    "done": true
+  },
   "vinery:shelf": {
     "criteria": {
       "has_the_recipe": "2025-09-28 13:28:52 +0800"
@@ -2137,9 +2233,10 @@
   },
   "enigmaticlegacy:recipes/generic/fabulous_scroll": {
     "criteria": {
+      "has_parent_recipe": "2025-10-07 19:04:55 +0800",
       "has_items": "2025-09-29 20:57:40 +0800"
     },
-    "done": false
+    "done": true
   },
   "comforts:hammock_lime_from_white": {
     "criteria": {
@@ -2666,6 +2763,7 @@
       "byg:temperate_grove": "2025-10-01 00:12:45 +0800",
       "byg:glowstone_gardens": "2025-09-30 19:56:09 +0800",
       "byg:orchard": "2025-09-28 13:54:30 +0800",
+      "byg:red_oak_forest": "2025-10-07 20:05:30 +0800",
       "byg:cypress_swamplands": "2025-10-05 23:51:42 +0800",
       "byg:fragment_forest": "2025-10-06 19:57:42 +0800",
       "byg:rose_fields": "2025-10-01 00:12:47 +0800",
@@ -2682,8 +2780,10 @@
       "byg:howling_peaks": "2025-10-06 01:17:42 +0800",
       "byg:aspen_forest": "2025-09-28 20:57:01 +0800",
       "byg:skyris_vale": "2025-09-28 20:08:51 +0800",
+      "byg:twilight_meadow": "2025-10-07 18:44:15 +0800",
       "byg:cherry_blossom_forest": "2025-09-28 15:22:32 +0800",
       "byg:forgotten_forest": "2025-10-06 19:29:13 +0800",
+      "byg:canadian_shield": "2025-10-07 18:41:41 +0800",
       "byg:cardinal_tundra": "2025-10-06 23:19:08 +0800",
       "byg:baobab_savanna": "2025-10-06 01:19:49 +0800",
       "byg:amaranth_fields": "2025-09-28 21:11:44 +0800",
@@ -2754,6 +2854,12 @@
       "enchanted_item": "2025-09-30 22:14:09 +0800"
     },
     "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "direct": "2025-10-08 00:51:20 +0800"
+    },
+    "done": false
   },
   "blue_skies:get_moonstone_shard": {
     "criteria": {
@@ -2885,6 +2991,12 @@
     },
     "done": true
   },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-10-07 23:07:24 +0800"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/berserk_charm": {
     "criteria": {
       "has_parent_recipe": "2025-09-28 20:50:25 +0800",
@@ -2981,6 +3093,12 @@
   "enigmaticlegacy:main/astral_dust": {
     "criteria": {
       "etherium": "2025-09-29 20:57:40 +0800"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_blood_staff": {
+    "criteria": {
+      "requirement": "2025-10-08 00:26:49 +0800"
     },
     "done": true
   },
